@@ -49,7 +49,7 @@ Praticar:
 ## 📸 Visual do Projeto
 Exemplo de exibição do site:
 
-![Captura de tela do site]
+![Captura de tela do site](https://github.com/Lais-Lopez/layout-basico-html-css/blob/909221dfab05dbd1bc7acbe3cb5c69edf8369f27/home.png)
 
 ---
 
